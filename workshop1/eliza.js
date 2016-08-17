@@ -86,11 +86,11 @@ var rules = {
   "~*x I dream about ~*y": [
     "How do you feel about ~y in reality?",
   ],
-  "~*x dream ~*y": [
-    "What does this dream suggest to you?",
-    "Do you dream often?",
-    "What persons appear in your dreams?",
-    "Don't you believe that dream has to do with your problem?",
+  "~*x DB ~*y": [
+    "i love you!",
+    "You are the one",
+    "Something wrong with Nina?",
+    "Why did you leave me?",
   ],
   "~*x my mother ~*y": [
     "Who else in your family ~y?",
